@@ -1,0 +1,16 @@
+{
+  "name": "issue-3568",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nightwatch/mobile-helper": "^0.1.10",
+    "nightwatch": "^2.6.13"
+  }
+}
